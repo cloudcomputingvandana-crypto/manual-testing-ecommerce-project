@@ -1,4 +1,4 @@
-# manual-testing-ecommerce-project
+Manual Testing E-Commerce Project
 
 Project Overview
 
